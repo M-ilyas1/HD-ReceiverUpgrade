@@ -1,6 +1,6 @@
 # HD-ReceiverUpgrade Digital Solutions
 
-![Site Logo](./assets/logo.png)  
+![Site Logo](./assets/images/logo/logo-1.png)  
 *Digital Innovation for the Modern Era*
 
 ## About This Project
@@ -60,12 +60,7 @@ A modern website for **HD-ReceiverUpgrade**, a digital solutions provider specia
 - **Contact the owner** (`m-ilyas1`) for licensing inquiries.  
 
 ---
+  
+![Screenshot](./assets/images/logo/logo-1.png)  
 
-## Development Setup  
-```bash
-# Clone (for reference only)
-git clone https://github.com/owner/repo.git --depth=1
-
-
-![Screenshot](./assets/images/screenshot.png)  
 *Homepage overview*
