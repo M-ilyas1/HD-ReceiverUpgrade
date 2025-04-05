@@ -38,16 +38,9 @@ A modern website for **HD-ReceiverUpgrade**, a digital solutions provider specia
   - Landing Pages
   - Illustration Design
 
-### 5. Footer
-- Copyright: *"© 2022. All rights reserved design by m-ilyas1"*
-- Links:
-  - Setting & Privacy
-  - FAQs
-  - Services
-
 ---
 
-### 2. Legal Compliance  
+### 5. Legal Compliance  
 - Footer includes:  
   - Copyright (`© 2022. All rights reserved design by m-ilyas1`)  
   - Privacy/Settings links  
