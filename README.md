@@ -61,6 +61,6 @@ A modern website for **HD-ReceiverUpgrade**, a digital solutions provider specia
 
 ---
   
-![Screenshot](./assets/images/logo/logo-1.png)  
+![Screenshot](./assets/images/screenshot.png)  
 
 *Homepage overview*
